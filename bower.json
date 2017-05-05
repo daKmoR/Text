@@ -1,0 +1,14 @@
+{
+  "name": "Text",
+  "description": "Text Manipulation",
+  "authors": [
+    "Thomas Allmer <d4kmor@gmail.com>"
+  ],
+  "keywords": [
+    "php",
+    "text manipulation"
+  ],
+  "demos": {
+    "Demo": "demo/index.php"
+  }
+}
